@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/1eb31d62-c93f-4092-bdaa-2d140e190428)# 19CS545-Ex1 - User Access and System Configuration in Linux 
-
+# 19CS454- User Access and System Configura on in Linux 
 # AIM:
 To create a Repository
 
